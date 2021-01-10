@@ -1,6 +1,6 @@
 8/21/03 - Leo Grady
 
-INSTALLATION:
+**INSTALLATION:**
 To use any functions in the toolbox, just add the main directory to
 your MATLAB path.
 
@@ -12,7 +12,7 @@ DOCUMENTATION:
 The User's Manual is included in the directory ./DOCS
 
 
-REREFENCES:
+**REFERENCES:**
 [1] Leo Grady and Eric L. Schwartz. The graph analysis toolbox: Image
     processing on arbitrary graphs. Technical Report Pending, Boston
     University, Boston, MA, August 2003.
